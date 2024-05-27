@@ -4,7 +4,7 @@
 
 #CEDAR BioPortal REST endpoint base and API Key - place your own here
 export CEDAR_BIOPORTAL_REST_BASE="https://data.bioontology.org/"
-export CEDAR_BIOPORTAL_API_KEY="changeme-bbbb-cccc-dddd-eeeeeeeeeeee"
+export CEDAR_BIOPORTAL_API_KEY="84f6e52e-cfcb-4c8d-bdbb-b150feb78cba"
 
 #CEDAR Google Analytics Key - place your own key here if the site is publicly available
 export CEDAR_ANALYTICS_KEY="false"
